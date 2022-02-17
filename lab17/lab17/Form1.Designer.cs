@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace lab17
 {
     partial class Form1
     {
